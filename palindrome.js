@@ -20,5 +20,5 @@ module.exports = function(givenString){
     console.log(givenString === reversed)
 
     // comparing to reverse string
-    console.log(givenString === givenString.split('').reverse().join(''))
+    // console.log(givenString === givenString.split('').reverse().join(''))
 }
